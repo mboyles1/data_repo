@@ -1,4 +1,4 @@
 data_repo
 =========
 
-data science repor
+data science repo
